@@ -1,0 +1,4 @@
+
+
+def ichimoku():
+    pass
